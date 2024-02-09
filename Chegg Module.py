@@ -739,8 +739,6 @@ class Chegg:
         print(f"Step 04:\n{round(sum(cal),4)}")
 
 
-# In[5]:
-
 
 x=[97 , 82 , 123 , 92 , 175 , 88 , 118]
 c=Chegg(x)
