@@ -4,6 +4,6 @@ For the step-by-step answers of measure of central tendency or dispersion or som
 <br>Measure of Central Tendency
 <br>Measure of Dispersion
 <br>Hypothesis Parametric Tests
-<br>Regression
 <br>Correlation
+<br>Regression
 
