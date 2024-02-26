@@ -765,8 +765,6 @@ c.StandardDev_S_c(x)
 c.StandardDev_S_c(y)
 
 
-# In[ ]:
-
 
 
 
