@@ -759,8 +759,6 @@ c.StandardDev_S_c(x)
 # c.Correlation_c()
 
 
-# In[8]:
-
 
 c.StandardDev_S_c(y)
 
