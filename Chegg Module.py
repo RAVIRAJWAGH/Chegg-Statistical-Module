@@ -745,9 +745,6 @@ c=Chegg(x)
 #print(len(x),len(y))
 
 
-# In[6]:
-
-
 # c.pvalue_c("3",2999,12.5984)
 #c.Correlation_c()
 # c.onesample_ttest_c(x)
